@@ -1,0 +1,97 @@
+
+.table-container {
+  width: 1216px;
+  height: 632px;
+  position: absolute;
+  top: 160px;
+  left: 112px;
+  border-radius: 4px;
+  border: 1px solid #000;
+}
+
+
+.checkbox-column {
+  width: 64px;
+  height: 528px;
+}
+
+.checkbox-cell {
+  width: 64px;
+  height: 48px;
+  padding: 16px;
+  border: 0px solid #000;
+  border-bottom: 1px solid #000;
+  gap: 4px;
+  display: flex;
+  align-items: center; 
+}
+
+.checkbox {
+  width: 24px;
+  height: 24px;
+}
+
+
+.date-column {
+  width: 120px;
+  height: 528px;
+}
+
+.date-cell {
+  width: 120px;
+  height: 48px;
+  border: 0px solid #000;
+  border-bottom: 1px solid #000;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+
+
+.description-column {
+  width: 480px;
+  height: 528px;
+}
+
+.description-cell {
+  width: 480px;
+  height: 48px;
+  border: 0px solid #000;
+  border-bottom: 1px solid #000;
+  display: flex;
+  align-items: center;
+}
+
+
+.amount-column {
+  width: 224px;
+  height: 528px;
+}
+
+.amount-cell {
+  width: 224px;
+  height: 48px;
+  border: 0px solid #000;
+  border-bottom: 1px solid #000;
+  display: flex;
+  align-items: center;
+}
+
+
+.actions-column {
+  width: 104px;
+  height: 528px;
+}
+
+.actions-cell {
+  width: 104px;
+  height: 48px;
+  padding: 16px;
+  border: 0px solid #000;
+  border-bottom: 1px solid #000;
+  gap: 4px;
+  display: flex;
+  align-items: center;
+}
+
+
